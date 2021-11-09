@@ -98,6 +98,23 @@ namespace ConsoleApp1
 
             /* Çam Ağacı Oluşturma Sonu*/
 
+            /*  Ters Çam Ağacı Oluşturma*/
+
+            for (int i = 1; i < 5   ; i++)
+            {
+                Console.WriteLine("");
+
+                for (int k = 0 ; k <= i; k++)
+                {
+                    Console.Write(" ");
+                }
+                for (int j = 1; j <= 9-2*i; j++)
+                {
+                    Console.Write("*");
+                }
+            }
+            /* Ters Çam Ağacı Oluşturma Sonu*/
+
             string ad = "";
             string sifre = "";
             string girisad = "";
