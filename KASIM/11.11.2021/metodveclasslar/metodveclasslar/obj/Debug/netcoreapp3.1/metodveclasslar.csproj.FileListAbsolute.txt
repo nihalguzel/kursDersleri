@@ -1,0 +1,14 @@
+C:\Users\burak\source\repos\metodveclasslar\metodveclasslar\bin\Debug\netcoreapp3.1\metodveclasslar.exe
+C:\Users\burak\source\repos\metodveclasslar\metodveclasslar\bin\Debug\netcoreapp3.1\metodveclasslar.deps.json
+C:\Users\burak\source\repos\metodveclasslar\metodveclasslar\bin\Debug\netcoreapp3.1\metodveclasslar.runtimeconfig.json
+C:\Users\burak\source\repos\metodveclasslar\metodveclasslar\bin\Debug\netcoreapp3.1\metodveclasslar.runtimeconfig.dev.json
+C:\Users\burak\source\repos\metodveclasslar\metodveclasslar\bin\Debug\netcoreapp3.1\metodveclasslar.dll
+C:\Users\burak\source\repos\metodveclasslar\metodveclasslar\bin\Debug\netcoreapp3.1\metodveclasslar.pdb
+C:\Users\burak\source\repos\metodveclasslar\metodveclasslar\obj\Debug\netcoreapp3.1\metodveclasslar.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\metodveclasslar\metodveclasslar\obj\Debug\netcoreapp3.1\metodveclasslar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\metodveclasslar\metodveclasslar\obj\Debug\netcoreapp3.1\metodveclasslar.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\metodveclasslar\metodveclasslar\obj\Debug\netcoreapp3.1\metodveclasslar.AssemblyInfo.cs
+C:\Users\burak\source\repos\metodveclasslar\metodveclasslar\obj\Debug\netcoreapp3.1\metodveclasslar.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\metodveclasslar\metodveclasslar\obj\Debug\netcoreapp3.1\metodveclasslar.dll
+C:\Users\burak\source\repos\metodveclasslar\metodveclasslar\obj\Debug\netcoreapp3.1\metodveclasslar.pdb
+C:\Users\burak\source\repos\metodveclasslar\metodveclasslar\obj\Debug\netcoreapp3.1\metodveclasslar.genruntimeconfig.cache
