@@ -111,7 +111,7 @@ namespace ilkders
                         Console.WriteLine("2.Sayı Gir");
                         int sonuc1 = a + b;
 
-                        Console.WriteLine("İşlem Sonucu="+sonuc1);
+                        Console.WriteLine("İşlem Sonucu=" + sonuc1);
                         
                         //Konsoldan veri alarak işlem yapma sonu
 
