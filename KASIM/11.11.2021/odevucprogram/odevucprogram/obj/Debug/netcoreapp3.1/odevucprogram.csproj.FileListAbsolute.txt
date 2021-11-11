@@ -11,3 +11,4 @@ C:\Users\burak\source\repos\odevucprogram\odevucprogram\obj\Debug\netcoreapp3.1\
 C:\Users\burak\source\repos\odevucprogram\odevucprogram\obj\Debug\netcoreapp3.1\odevucprogram.dll
 C:\Users\burak\source\repos\odevucprogram\odevucprogram\obj\Debug\netcoreapp3.1\odevucprogram.pdb
 C:\Users\burak\source\repos\odevucprogram\odevucprogram\obj\Debug\netcoreapp3.1\odevucprogram.genruntimeconfig.cache
+C:\Users\burak\source\repos\odevucprogram\odevucprogram\obj\Debug\netcoreapp3.1\odevucprogram.csproj.AssemblyReference.cache

@@ -157,24 +157,41 @@ namespace odevucprogram
         {
 
             int a, b = 0;
+            double c = 0;
+            double p = 3.14;
             Console.WriteLine("Hesaplama İşlemleri \n");
             Console.WriteLine("Lütfen Hesaplama Yapacağınız Programı Seçiniz");
-            Console.WriteLine("Alan Hesabı A,Çevre Hesabı C ");
+            Console.WriteLine("Alan Hesabı A,Çevre Hesabı C,Daire Alanı D,Daire Çevresi DC");
             Console.Write("Seçim ?");
             string secim = Console.ReadLine(); //Kullanıcının seçim değerini consoledan aldık.
 
-            Console.WriteLine("Uzunluk Değerini Girin");
-            a = Convert.ToInt32(Console.ReadLine()); //Kullanıcıdan a değerini consoledan aldık.
-            Console.WriteLine("Genişlik Değerini Girin");
-            b = Convert.ToInt32(Console.ReadLine()); //Kullanıcıdan b değerini consoledan aldık.
+           
 
             switch (secim) //Kullanıcıdan aldığımız secim değerini Switch içinde A ve ya C mi diye kontrol ettik.
             {
                 case "A": //Eğer seçim değişkeni A ise alttaki kod blogu çalışacak.
+                    Console.WriteLine("Uzunluk Değerini Girin");
+                    a = Convert.ToInt32(Console.ReadLine()); //Kullanıcıdan a değerini consoledan aldık.
+                    Console.WriteLine("Genişlik Değerini Girin");
+                    b = Convert.ToInt32(Console.ReadLine()); //Kullanıcıdan b değerini consoledan aldık.
                     Console.WriteLine(a*b);   // Program clasında bulunan alan hesaplama fonksiyonunu çağırdık ve fonkisyona a ve b değerlerini parametre olarak gönderdik.
                     break;
                 case "C": //Eğer seçim değişkeni C ise alttaki kod blogu çalışacak.
+                    Console.WriteLine("Uzunluk Değerini Girin");
+                    a = Convert.ToInt32(Console.ReadLine()); //Kullanıcıdan a değerini consoledan aldık.
+                    Console.WriteLine("Genişlik Değerini Girin");
+                    b = Convert.ToInt32(Console.ReadLine()); //Kullanıcıdan b değerini consoledan aldık.
                     Console.WriteLine(2*a+2*b); //Program clasında bulunan cevrehesaplama fonksiyonu çağırdık ve fonksiyona a ve b değişkenlerini parametre olarak gönderdik.
+                    break;
+                case "D":
+                    Console.WriteLine("Yarı Çap Değerini Girin");
+                    c = Convert.ToDouble(Console.ReadLine()); //Kullanıcıdan c değerini consoledan aldık.
+                    Console.WriteLine(p * (c * c)+"(Pi sayısı 3.14 Olarak Alınmıştır)");
+                    break;
+                case "DC":
+                    Console.WriteLine("Yarı Çap Değerini Girin");
+                    c = Convert.ToDouble(Console.ReadLine()); //Kullanıcıdan c değerini consoledan aldık.
+                    Console.WriteLine(2*p*c+"(Pi sayısı 3.14 Olarak Alınmıştır)");
                     break;
             }
 
