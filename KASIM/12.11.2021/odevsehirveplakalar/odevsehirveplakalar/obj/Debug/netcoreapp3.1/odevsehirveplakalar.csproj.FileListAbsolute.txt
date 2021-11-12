@@ -1,0 +1,14 @@
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\odevsehirveplakalar\odevsehirveplakalar\bin\Debug\netcoreapp3.1\odevsehirveplakalar.exe
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\odevsehirveplakalar\odevsehirveplakalar\bin\Debug\netcoreapp3.1\odevsehirveplakalar.deps.json
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\odevsehirveplakalar\odevsehirveplakalar\bin\Debug\netcoreapp3.1\odevsehirveplakalar.runtimeconfig.json
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\odevsehirveplakalar\odevsehirveplakalar\bin\Debug\netcoreapp3.1\odevsehirveplakalar.runtimeconfig.dev.json
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\odevsehirveplakalar\odevsehirveplakalar\bin\Debug\netcoreapp3.1\odevsehirveplakalar.dll
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\odevsehirveplakalar\odevsehirveplakalar\bin\Debug\netcoreapp3.1\odevsehirveplakalar.pdb
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\odevsehirveplakalar\odevsehirveplakalar\obj\Debug\netcoreapp3.1\odevsehirveplakalar.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\odevsehirveplakalar\odevsehirveplakalar\obj\Debug\netcoreapp3.1\odevsehirveplakalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\odevsehirveplakalar\odevsehirveplakalar\obj\Debug\netcoreapp3.1\odevsehirveplakalar.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\odevsehirveplakalar\odevsehirveplakalar\obj\Debug\netcoreapp3.1\odevsehirveplakalar.AssemblyInfo.cs
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\odevsehirveplakalar\odevsehirveplakalar\obj\Debug\netcoreapp3.1\odevsehirveplakalar.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\odevsehirveplakalar\odevsehirveplakalar\obj\Debug\netcoreapp3.1\odevsehirveplakalar.dll
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\odevsehirveplakalar\odevsehirveplakalar\obj\Debug\netcoreapp3.1\odevsehirveplakalar.pdb
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\odevsehirveplakalar\odevsehirveplakalar\obj\Debug\netcoreapp3.1\odevsehirveplakalar.genruntimeconfig.cache
