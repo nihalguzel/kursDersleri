@@ -1,0 +1,14 @@
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\classtanimlamalariuygulama\classtanimlamalariuygulama\bin\Debug\netcoreapp3.1\classtanimlamalariuygulama.exe
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\classtanimlamalariuygulama\classtanimlamalariuygulama\bin\Debug\netcoreapp3.1\classtanimlamalariuygulama.deps.json
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\classtanimlamalariuygulama\classtanimlamalariuygulama\bin\Debug\netcoreapp3.1\classtanimlamalariuygulama.runtimeconfig.json
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\classtanimlamalariuygulama\classtanimlamalariuygulama\bin\Debug\netcoreapp3.1\classtanimlamalariuygulama.runtimeconfig.dev.json
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\classtanimlamalariuygulama\classtanimlamalariuygulama\bin\Debug\netcoreapp3.1\classtanimlamalariuygulama.dll
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\classtanimlamalariuygulama\classtanimlamalariuygulama\bin\Debug\netcoreapp3.1\classtanimlamalariuygulama.pdb
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\classtanimlamalariuygulama\classtanimlamalariuygulama\obj\Debug\netcoreapp3.1\classtanimlamalariuygulama.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\classtanimlamalariuygulama\classtanimlamalariuygulama\obj\Debug\netcoreapp3.1\classtanimlamalariuygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\classtanimlamalariuygulama\classtanimlamalariuygulama\obj\Debug\netcoreapp3.1\classtanimlamalariuygulama.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\classtanimlamalariuygulama\classtanimlamalariuygulama\obj\Debug\netcoreapp3.1\classtanimlamalariuygulama.AssemblyInfo.cs
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\classtanimlamalariuygulama\classtanimlamalariuygulama\obj\Debug\netcoreapp3.1\classtanimlamalariuygulama.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\classtanimlamalariuygulama\classtanimlamalariuygulama\obj\Debug\netcoreapp3.1\classtanimlamalariuygulama.dll
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\classtanimlamalariuygulama\classtanimlamalariuygulama\obj\Debug\netcoreapp3.1\classtanimlamalariuygulama.pdb
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\classtanimlamalariuygulama\classtanimlamalariuygulama\obj\Debug\netcoreapp3.1\classtanimlamalariuygulama.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\consolekeycalismasi\consolekeycalismasi\bin\Debug\netcoreapp3.1\consolekeycalismasi.exe
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\consolekeycalismasi\consolekeycalismasi\bin\Debug\netcoreapp3.1\consolekeycalismasi.deps.json
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\consolekeycalismasi\consolekeycalismasi\bin\Debug\netcoreapp3.1\consolekeycalismasi.runtimeconfig.json
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\consolekeycalismasi\consolekeycalismasi\bin\Debug\netcoreapp3.1\consolekeycalismasi.runtimeconfig.dev.json
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\consolekeycalismasi\consolekeycalismasi\bin\Debug\netcoreapp3.1\consolekeycalismasi.dll
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\consolekeycalismasi\consolekeycalismasi\bin\Debug\netcoreapp3.1\consolekeycalismasi.pdb
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\consolekeycalismasi\consolekeycalismasi\obj\Debug\netcoreapp3.1\consolekeycalismasi.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\consolekeycalismasi\consolekeycalismasi\obj\Debug\netcoreapp3.1\consolekeycalismasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\consolekeycalismasi\consolekeycalismasi\obj\Debug\netcoreapp3.1\consolekeycalismasi.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\consolekeycalismasi\consolekeycalismasi\obj\Debug\netcoreapp3.1\consolekeycalismasi.AssemblyInfo.cs
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\consolekeycalismasi\consolekeycalismasi\obj\Debug\netcoreapp3.1\consolekeycalismasi.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\consolekeycalismasi\consolekeycalismasi\obj\Debug\netcoreapp3.1\consolekeycalismasi.dll
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\consolekeycalismasi\consolekeycalismasi\obj\Debug\netcoreapp3.1\consolekeycalismasi.pdb
+C:\Users\burak\Desktop\kursDersler\KASIM\15.11.2021\consolekeycalismasi\consolekeycalismasi\obj\Debug\netcoreapp3.1\consolekeycalismasi.genruntimeconfig.cache
