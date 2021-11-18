@@ -1,0 +1,14 @@
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\haftasonuodevi\haftasonuodevi\haftasonuodevi\obj\Debug\netcoreapp3.1\haftasonuodevi.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\haftasonuodevi\haftasonuodevi\haftasonuodevi\obj\Debug\netcoreapp3.1\haftasonuodevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\haftasonuodevi\haftasonuodevi\haftasonuodevi\obj\Debug\netcoreapp3.1\haftasonuodevi.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\haftasonuodevi\haftasonuodevi\haftasonuodevi\obj\Debug\netcoreapp3.1\haftasonuodevi.AssemblyInfo.cs
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\haftasonuodevi\haftasonuodevi\haftasonuodevi\obj\Debug\netcoreapp3.1\haftasonuodevi.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\haftasonuodevi\haftasonuodevi\haftasonuodevi\bin\Debug\netcoreapp3.1\haftasonuodevi.exe
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\haftasonuodevi\haftasonuodevi\haftasonuodevi\bin\Debug\netcoreapp3.1\haftasonuodevi.deps.json
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\haftasonuodevi\haftasonuodevi\haftasonuodevi\bin\Debug\netcoreapp3.1\haftasonuodevi.runtimeconfig.json
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\haftasonuodevi\haftasonuodevi\haftasonuodevi\bin\Debug\netcoreapp3.1\haftasonuodevi.runtimeconfig.dev.json
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\haftasonuodevi\haftasonuodevi\haftasonuodevi\bin\Debug\netcoreapp3.1\haftasonuodevi.dll
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\haftasonuodevi\haftasonuodevi\haftasonuodevi\bin\Debug\netcoreapp3.1\haftasonuodevi.pdb
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\haftasonuodevi\haftasonuodevi\haftasonuodevi\obj\Debug\netcoreapp3.1\haftasonuodevi.dll
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\haftasonuodevi\haftasonuodevi\haftasonuodevi\obj\Debug\netcoreapp3.1\haftasonuodevi.pdb
+C:\Users\burak\Desktop\kursDersler\KASIM\12.11.2021\haftasonuodevi\haftasonuodevi\haftasonuodevi\obj\Debug\netcoreapp3.1\haftasonuodevi.genruntimeconfig.cache
