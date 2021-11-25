@@ -1,0 +1,16 @@
+C:\Users\burak\Desktop\kursDersler\KASIM\23.11.2021\boykiloendeksi\boykiloendeksi\bin\Debug\netcoreapp3.1\boykiloendeksi.exe
+C:\Users\burak\Desktop\kursDersler\KASIM\23.11.2021\boykiloendeksi\boykiloendeksi\bin\Debug\netcoreapp3.1\boykiloendeksi.deps.json
+C:\Users\burak\Desktop\kursDersler\KASIM\23.11.2021\boykiloendeksi\boykiloendeksi\bin\Debug\netcoreapp3.1\boykiloendeksi.runtimeconfig.json
+C:\Users\burak\Desktop\kursDersler\KASIM\23.11.2021\boykiloendeksi\boykiloendeksi\bin\Debug\netcoreapp3.1\boykiloendeksi.runtimeconfig.dev.json
+C:\Users\burak\Desktop\kursDersler\KASIM\23.11.2021\boykiloendeksi\boykiloendeksi\bin\Debug\netcoreapp3.1\boykiloendeksi.dll
+C:\Users\burak\Desktop\kursDersler\KASIM\23.11.2021\boykiloendeksi\boykiloendeksi\bin\Debug\netcoreapp3.1\boykiloendeksi.pdb
+C:\Users\burak\Desktop\kursDersler\KASIM\23.11.2021\boykiloendeksi\boykiloendeksi\obj\Debug\netcoreapp3.1\boykiloendeksi.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\kursDersler\KASIM\23.11.2021\boykiloendeksi\boykiloendeksi\obj\Debug\netcoreapp3.1\boykiloendeksi.Form1.resources
+C:\Users\burak\Desktop\kursDersler\KASIM\23.11.2021\boykiloendeksi\boykiloendeksi\obj\Debug\netcoreapp3.1\boykiloendeksi.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\kursDersler\KASIM\23.11.2021\boykiloendeksi\boykiloendeksi\obj\Debug\netcoreapp3.1\boykiloendeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\kursDersler\KASIM\23.11.2021\boykiloendeksi\boykiloendeksi\obj\Debug\netcoreapp3.1\boykiloendeksi.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\kursDersler\KASIM\23.11.2021\boykiloendeksi\boykiloendeksi\obj\Debug\netcoreapp3.1\boykiloendeksi.AssemblyInfo.cs
+C:\Users\burak\Desktop\kursDersler\KASIM\23.11.2021\boykiloendeksi\boykiloendeksi\obj\Debug\netcoreapp3.1\boykiloendeksi.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\kursDersler\KASIM\23.11.2021\boykiloendeksi\boykiloendeksi\obj\Debug\netcoreapp3.1\boykiloendeksi.dll
+C:\Users\burak\Desktop\kursDersler\KASIM\23.11.2021\boykiloendeksi\boykiloendeksi\obj\Debug\netcoreapp3.1\boykiloendeksi.pdb
+C:\Users\burak\Desktop\kursDersler\KASIM\23.11.2021\boykiloendeksi\boykiloendeksi\obj\Debug\netcoreapp3.1\boykiloendeksi.genruntimeconfig.cache
