@@ -13,6 +13,7 @@ namespace WinFormsApp1
 {
     public partial class Form1 : Form
     {
+        StreamWriter kisiekle;
         public Form1()
         {
             InitializeComponent();
@@ -41,13 +42,39 @@ namespace WinFormsApp1
 
         private void button4_Click(object sender, EventArgs e)
         {
-            try
-            {
-                MessageBox.Show(Convert.ToInt32(textBox1.Text) + "");
+           
+                kisiekle.WriteLine(richTextBox1.Text);
+                MessageBox.Show("Oldu Oldu");
+            
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            kisiekle = new StreamWriter(@"C:\Users\burak\Desktop\kursDersler\yeni.txt");
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            kisiekle.Write(textBox2.Text);
+            MessageBox.Show("Kişi Eklenndi");
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            kisiekle.Close();//az çıkan şey çok değerli olur. bu turkcell yeni mezun alıyormuş bizi almaz mı ?? arif neden böyle
+            // biri kazanıcak biri kaybedecek . hiç bir zaman herkes kazanamaz . milyarlar gitti milyarlar . senin benim paramla dönmuyor bu işler. 
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            try { 
+            StreamReader oku = new StreamReader(@"C:\Users\burak\Desktop\kursDersler\yeni.txt");
+            richTextBox1.Text = oku.ReadToEnd();
+            oku.Close();
             }
-            catch(Exception ex)
+            catch ( Exception ex1)
             {
-                MessageBox.Show("Girilen Değer String"+ex);
+                MessageBox.Show(ex1.ToString());
             }
         }
     }
