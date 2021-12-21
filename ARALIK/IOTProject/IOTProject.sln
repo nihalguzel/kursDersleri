@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOTProject", "IOTProject\IOTProject.csproj", "{C1194D22-16B3-4371-94B5-AD2ED9328DF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1194D22-16B3-4371-94B5-AD2ED9328DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1194D22-16B3-4371-94B5-AD2ED9328DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1194D22-16B3-4371-94B5-AD2ED9328DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1194D22-16B3-4371-94B5-AD2ED9328DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E7186FE-88C2-466B-8F0F-5C30D5BC4C64}
+	EndGlobalSection
+EndGlobal
