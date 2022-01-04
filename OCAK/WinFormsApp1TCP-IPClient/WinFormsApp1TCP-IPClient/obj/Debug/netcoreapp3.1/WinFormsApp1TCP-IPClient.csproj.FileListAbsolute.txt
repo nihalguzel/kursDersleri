@@ -1,0 +1,17 @@
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IPClient\WinFormsApp1TCP-IPClient\bin\Debug\netcoreapp3.1\WinFormsApp1TCP-IPClient.exe
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IPClient\WinFormsApp1TCP-IPClient\bin\Debug\netcoreapp3.1\WinFormsApp1TCP-IPClient.deps.json
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IPClient\WinFormsApp1TCP-IPClient\bin\Debug\netcoreapp3.1\WinFormsApp1TCP-IPClient.runtimeconfig.json
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IPClient\WinFormsApp1TCP-IPClient\bin\Debug\netcoreapp3.1\WinFormsApp1TCP-IPClient.runtimeconfig.dev.json
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IPClient\WinFormsApp1TCP-IPClient\bin\Debug\netcoreapp3.1\WinFormsApp1TCP-IPClient.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IPClient\WinFormsApp1TCP-IPClient\bin\Debug\netcoreapp3.1\WinFormsApp1TCP-IPClient.pdb
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IPClient\WinFormsApp1TCP-IPClient\bin\Debug\netcoreapp3.1\SimpleTCP.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IPClient\WinFormsApp1TCP-IPClient\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IPClient.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IPClient\WinFormsApp1TCP-IPClient\obj\Debug\netcoreapp3.1\WinFormsApp1TCP_IPClient.Form1.resources
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IPClient\WinFormsApp1TCP-IPClient\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IPClient.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IPClient\WinFormsApp1TCP-IPClient\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IPClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IPClient\WinFormsApp1TCP-IPClient\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IPClient.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IPClient\WinFormsApp1TCP-IPClient\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IPClient.AssemblyInfo.cs
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IPClient\WinFormsApp1TCP-IPClient\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IPClient.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IPClient\WinFormsApp1TCP-IPClient\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IPClient.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IPClient\WinFormsApp1TCP-IPClient\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IPClient.pdb
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IPClient\WinFormsApp1TCP-IPClient\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IPClient.genruntimeconfig.cache

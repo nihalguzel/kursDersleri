@@ -1,0 +1,17 @@
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IP\WinFormsApp1TCP-IP\bin\Debug\netcoreapp3.1\WinFormsApp1TCP-IP.exe
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IP\WinFormsApp1TCP-IP\bin\Debug\netcoreapp3.1\WinFormsApp1TCP-IP.deps.json
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IP\WinFormsApp1TCP-IP\bin\Debug\netcoreapp3.1\WinFormsApp1TCP-IP.runtimeconfig.json
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IP\WinFormsApp1TCP-IP\bin\Debug\netcoreapp3.1\WinFormsApp1TCP-IP.runtimeconfig.dev.json
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IP\WinFormsApp1TCP-IP\bin\Debug\netcoreapp3.1\WinFormsApp1TCP-IP.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IP\WinFormsApp1TCP-IP\bin\Debug\netcoreapp3.1\WinFormsApp1TCP-IP.pdb
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IP\WinFormsApp1TCP-IP\bin\Debug\netcoreapp3.1\SimpleTCP.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IP\WinFormsApp1TCP-IP\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IP.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IP\WinFormsApp1TCP-IP\obj\Debug\netcoreapp3.1\WinFormsApp1TCP_IP.Form1.resources
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IP\WinFormsApp1TCP-IP\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IP.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IP\WinFormsApp1TCP-IP\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IP\WinFormsApp1TCP-IP\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IP.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IP\WinFormsApp1TCP-IP\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IP.AssemblyInfo.cs
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IP\WinFormsApp1TCP-IP\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IP.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IP\WinFormsApp1TCP-IP\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IP.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IP\WinFormsApp1TCP-IP\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IP.pdb
+C:\Users\burak\Desktop\kursDersler\OCAK\WinFormsApp1TCP-IP\WinFormsApp1TCP-IP\obj\Debug\netcoreapp3.1\WinFormsApp1TCP-IP.genruntimeconfig.cache
