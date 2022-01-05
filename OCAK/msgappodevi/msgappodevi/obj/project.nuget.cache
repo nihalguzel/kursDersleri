@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "kOSbUKYbt9W83e9QDV7E38cwPypBKcrJIdTSQ7GKGd3dowE4Cc8ZIWsC6vSRy2KHFLAWpxE2AIwGf1SSg0N0Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\burak\\Desktop\\kursDersler\\OCAK\\msgappodevi\\msgappodevi\\msgappodevi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\burak\\.nuget\\packages\\simpletcp\\1.0.24\\simpletcp.1.0.24.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'SimpleTCP 1.0.24' paketi, proje hedef çerçevesi '.NETCoreApp,Version=v3.1' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "SimpleTCP",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

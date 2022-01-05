@@ -1,0 +1,17 @@
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\bin\Debug\netcoreapp3.1\msgappodevi.exe
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\bin\Debug\netcoreapp3.1\msgappodevi.deps.json
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\bin\Debug\netcoreapp3.1\msgappodevi.runtimeconfig.json
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\bin\Debug\netcoreapp3.1\msgappodevi.runtimeconfig.dev.json
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\bin\Debug\netcoreapp3.1\msgappodevi.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\bin\Debug\netcoreapp3.1\msgappodevi.pdb
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\bin\Debug\netcoreapp3.1\SimpleTCP.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcoreapp3.1\msgappodevi.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcoreapp3.1\msgappodevi.Form1.resources
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcoreapp3.1\msgappodevi.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcoreapp3.1\msgappodevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcoreapp3.1\msgappodevi.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcoreapp3.1\msgappodevi.AssemblyInfo.cs
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcoreapp3.1\msgappodevi.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcoreapp3.1\msgappodevi.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcoreapp3.1\msgappodevi.pdb
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcoreapp3.1\msgappodevi.genruntimeconfig.cache

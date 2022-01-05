@@ -1,0 +1,90 @@
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\IOTProject.exe
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\IOTProject.deps.json
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\IOTProject.runtimeconfig.json
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\IOTProject.runtimeconfig.dev.json
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\IOTProject.dll
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\IOTProject.pdb
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.Form1.resources
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.Properties.Resources.resources
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.AssemblyInfo.cs
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.dll
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.pdb
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.genruntimeconfig.cache
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.educationCard.resources
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.teacherCard.resources
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.educationContentCard.resources
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.loginForm.resources
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.userDetailsForm.resources
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.showPdfForm.resources
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\burak\Desktop\Projeler\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\IOTProject.exe
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\IOTProject.deps.json
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\IOTProject.runtimeconfig.json
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\IOTProject.runtimeconfig.dev.json
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\IOTProject.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\IOTProject.pdb
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.csproj.AssemblyReference.cache
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.educationCard.resources
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.educationContentCard.resources
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.Form1.resources
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.loginForm.resources
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.Properties.Resources.resources
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.studentScreen.resources
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.teacherCard.resources
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.userDetailsForm.resources
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.csproj.GenerateResource.cache
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.AssemblyInfoInputs.cache
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.AssemblyInfo.cs
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.csproj.CoreCompileInputs.cache
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.csproj.CopyComplete
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.dll
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.pdb
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.genruntimeconfig.cache
+C:\Users\onura\Desktop\Yeni klasör (2)\IOTProject\IOTProject\obj\Debug\netcoreapp3.1\IOTProject.teacherScreencs.resources

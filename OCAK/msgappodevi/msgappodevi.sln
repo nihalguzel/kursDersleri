@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "msgappodevi", "msgappodevi\msgappodevi.csproj", "{26F8CCC2-8318-425F-BF33-B0787D8B0C2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26F8CCC2-8318-425F-BF33-B0787D8B0C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F8CCC2-8318-425F-BF33-B0787D8B0C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F8CCC2-8318-425F-BF33-B0787D8B0C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F8CCC2-8318-425F-BF33-B0787D8B0C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57082109-EA9D-4BDD-BD18-57BF667BF538}
+	EndGlobalSection
+EndGlobal

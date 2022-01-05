@@ -1,0 +1,17 @@
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi2\msgappodevi2\bin\Debug\netcoreapp3.1\msgappodevi2.exe
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi2\msgappodevi2\bin\Debug\netcoreapp3.1\msgappodevi2.deps.json
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi2\msgappodevi2\bin\Debug\netcoreapp3.1\msgappodevi2.runtimeconfig.json
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi2\msgappodevi2\bin\Debug\netcoreapp3.1\msgappodevi2.runtimeconfig.dev.json
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi2\msgappodevi2\bin\Debug\netcoreapp3.1\msgappodevi2.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi2\msgappodevi2\bin\Debug\netcoreapp3.1\msgappodevi2.pdb
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi2\msgappodevi2\bin\Debug\netcoreapp3.1\SimpleTCP.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi2\msgappodevi2\obj\Debug\netcoreapp3.1\msgappodevi2.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi2\msgappodevi2\obj\Debug\netcoreapp3.1\msgappodevi2.Form1.resources
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi2\msgappodevi2\obj\Debug\netcoreapp3.1\msgappodevi2.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi2\msgappodevi2\obj\Debug\netcoreapp3.1\msgappodevi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi2\msgappodevi2\obj\Debug\netcoreapp3.1\msgappodevi2.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi2\msgappodevi2\obj\Debug\netcoreapp3.1\msgappodevi2.AssemblyInfo.cs
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi2\msgappodevi2\obj\Debug\netcoreapp3.1\msgappodevi2.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi2\msgappodevi2\obj\Debug\netcoreapp3.1\msgappodevi2.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi2\msgappodevi2\obj\Debug\netcoreapp3.1\msgappodevi2.pdb
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi2\msgappodevi2\obj\Debug\netcoreapp3.1\msgappodevi2.genruntimeconfig.cache
