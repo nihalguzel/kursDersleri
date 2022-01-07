@@ -16,9 +16,9 @@ namespace msgappodevi2
     {
         SimpleTcpServer server;
         SimpleTcpClient client;
-        public string iptxt = "192.168.43.160";
+        public string iptxt = "172.16.100.207";
         public int port = 5455;
-        public string karsiip = "192.168.43.160";
+        public string karsiip = "172.16.100.207";
         public int karsiport = 5454;
 
         public Form1()
@@ -91,9 +91,10 @@ namespace msgappodevi2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            richTextBox1.Text += ("Port 5455:" + richTextBox2.Text+"\n");
+            richTextBox1.Text += (richTextBox2.Text+"\n");
             Thread.Sleep(1000);
-            client.WriteLineAndGetReply("Port 5455" + richTextBox2.Text, TimeSpan.FromSeconds(3));
+            client.WriteLine(richTextBox2.Text);
+           
         }
     }
 }

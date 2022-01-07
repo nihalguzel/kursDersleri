@@ -1,10 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "kOSbUKYbt9W83e9QDV7E38cwPypBKcrJIdTSQ7GKGd3dowE4Cc8ZIWsC6vSRy2KHFLAWpxE2AIwGf1SSg0N0Ow==",
+  "dgSpecHash": "oQcZR/6KCuoNj6DKSgSePxmUHXcUuM2BdOXvMaW1uEKct4K32Nr2oZhKz31UBeDWbKbLKZ5CxfiE9FAtiX4f5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\burak\\Desktop\\kursDersler\\OCAK\\msgappodevi\\msgappodevi\\msgappodevi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\burak\\.nuget\\packages\\simpletcp\\1.0.24\\simpletcp.1.0.24.nupkg.sha512"
+    "C:\\Users\\burak\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\simpletcp\\1.0.24\\simpletcp.1.0.24.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
   "logs": [
     {

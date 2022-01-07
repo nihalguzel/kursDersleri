@@ -15,3 +15,13 @@ C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcor
 C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcoreapp3.1\msgappodevi.dll
 C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcoreapp3.1\msgappodevi.pdb
 C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcoreapp3.1\msgappodevi.genruntimeconfig.cache
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcoreapp3.1\msgappodevi.messageCard.resources
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcoreapp3.1\msgappodevi.cardMessageSending.resources
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcoreapp3.1\msgappodevi.friendCard.resources
+C:\Users\burak\Desktop\kursDersler\OCAK\msgappodevi\msgappodevi\obj\Debug\netcoreapp3.1\msgappodevi.Properties.Resources.resources
